@@ -1,0 +1,2 @@
++   5.00    // Example Donation     @robertnealan
+-   5.00    // Example Removal      @meetup.com

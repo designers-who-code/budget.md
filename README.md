@@ -1,0 +1,1 @@
+All income and expenses for Designers Who Code will be transparently logged here as they happen, organized by year and month.
